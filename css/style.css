@@ -1,0 +1,16 @@
+section {
+  padding-top: 60px;
+}
+
+img {
+  display: block;
+  float: left;
+}
+
+#mike-is-the-worst img {
+  margin: 0 65px 50px;
+}
+
+#mississippi-steve img {
+  margin: 0 10px 50px;
+}
