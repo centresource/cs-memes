@@ -11,6 +11,25 @@ img {
   margin: 0 65px 50px;
 }
 
+#travis-in-paris img {
+  margin: 0 10px 50px;
+}
+
+#bad-advice-david img {
+  margin: 0 65px 50px;
+}
+
+#bitbucket-allan img {
+  margin: 0 65px 50px;
+}
+
+#hipster-jon img {
+  margin: 0 10px 50px;
+}
+
 #mississippi-steve img {
   margin: 0 10px 50px;
+}
+section {
+  padding-bottom: 60px;
 }
