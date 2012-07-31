@@ -7,7 +7,10 @@ img {
   float: left;
 }
 
+
 #mike-is-the-worst img {
+  max-height: 441px;
+  max-width: 300px;
   margin: 0 65px 50px;
 }
 
@@ -16,6 +19,8 @@ img {
 }
 
 #bad-advice-david img {
+  max-height: 600px;
+  max-width: 300px;
   margin: 0 65px 50px;
 }
 
