@@ -1,5 +1,7 @@
 production:
-  domain: "deploy@monet.centresource.com -p 5344"
+  domain:
+    name: "deploy@monet.centresource.com"
+    ssh_options: "-p 5344"
   deploy_to: "/var/www/memes.centresource.com"
   repository: "git@projects.centresource.com:cs-memes.git"
   branch: "master"
